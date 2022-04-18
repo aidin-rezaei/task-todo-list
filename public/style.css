@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+    width: 50px;
+    padding: 5px;
+}
+
+@media (max-width: 467px) { 
+    .App{
+        width:100%;
+    }
+ }
+.hrdsf{
+    width: 98%;
+    height: 1px;
+    margin: auto;
+    background-color: #d1d0d0;
+}
+.marg5{
+    width: 100%;
+    display: flex;
+    margin: 10px;
+}
